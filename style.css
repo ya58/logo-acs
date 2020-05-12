@@ -1,0 +1,44 @@
+@font-face {
+font-family: 'helvetica';
+src: url('Helvetica65Medium_22443.ttf');
+font-weight: normal;
+font-style: normal;
+}
+
+body{
+  background-color: black;
+
+
+}
+
+
+
+#access{
+font-weight: bold;
+
+}
+
+
+#code{
+background-color: red;
+padding: 2px;
+font-weight: bold;
+
+}
+#school{
+border-top: 1px solid white;
+letter-spacing: 17px;
+
+}
+.accesscode{
+/* text-decoration: underline; */
+
+
+}
+.center{
+text-align: center;
+  font-size: 29px;
+  color: white;
+  text-transform: uppercase;
+font-family: 'helvetica';
+}
