@@ -46,17 +46,19 @@ padding: 2px;
 
 }
 #school{
-border-top: 1px solid white;
-letter-spacing: 24px;
+
+letter-spacing: 28px;
 font-family: 'Helvetica 45', serif !important;
 font-size: 16px;
-text-align: center;
-
+text-align: right;
+padding-top: 8px;
 
 }
 
 .accesscode{
 /* text-decoration: underline; */
+border-bottom: 1px solid white;
+padding-bottom: 2px;
 }
 
 .center{
