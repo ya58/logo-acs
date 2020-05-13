@@ -18,6 +18,14 @@
     font-weight: 300;
     font-style: normal;
 }
+
+.flex-container{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 85vh;
+}
 body{
   background-color: black;
 }
